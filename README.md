@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kassiosilva&label=Profile%20views&color=0e75b6&style=flat" alt="kassiosilva" /> </p>
 
 - 🔭 Atualmente estou trabalhando na empresa [IBM](https://e-agro.com.br/)
-
-- 🌱 No momento estou aprendendo **Kotlin e desenvolvimento nativo Android**
-
+  
 - 📫 Como chegar até mim **kassio.slva@gmail.com**
 
 - 📄 Conheça as minhas experiências [https://www.linkedin.com/in/kassio-silva/](https://www.linkedin.com/in/kassio-silva/)
